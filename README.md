@@ -1,2 +1,4 @@
 # SelfProject
-For Machine LearningSchool Project
+This is the page for university projects.
+
+Author: Aeir_Elf
